@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Xianhua Zeng | 曾宪华</title>
+    <meta name="author" content="Xianhua Zeng | 曾宪华"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/media/css/home.css">
+    <style type="text/css">
+    html, body {
+      background-color: #ffffff;
+    }
+    .container > footer p , .postheader > a{
+      text-align: center;
+    }
+    .date {
+      text-align: center;
+      height: 30px;
+      color:#bfbfbf;
+      margin-bottom: 10px;
+    }
+    /* Specify class=linenums on a pre to get line numbering */
+    ol.linenums {
+      margin: 0 0 0 33px; /* IE indents via margin-left */
+    }
+    ol.linenums li {
+      padding-left: 12px;
+      color: #bebec5;
+      line-height: 18px;
+      text-shadow: 0 1px 0 #fff;
+    }
+    </style>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-65950412-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="sitename">Xianhua Zeng | 曾宪华</h1>
+      <ul class="nav pills">
+        <li><a href="/">Home</a></li>
+        <li><a href="/cn/">Chinese</a></li>
+        <li><a href="/en/">English</a></li>
+      </ul>
+      {{ content }}
+      <footer>
+        <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub | Copyright © 2015 - {{site.time | date:"%Y"}} by <a href="http://www.xianhuazeng.com/">Xianhua Zeng</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
+      </footer>
+    </div>
+  </body>
+</html>
