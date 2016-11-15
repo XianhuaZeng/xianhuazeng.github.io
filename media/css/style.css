@@ -77,20 +77,20 @@ embed,object,iframe{display:block;margin:4px auto;}
     margin-top: -80px; /* = height + preferred bottom margin */
 
     /* link is centered */
-    left: 0%;
+    left: 95%;
     margin-left: 0px; /* = half of width */
 
     /* round the corners (to your preference) */
-    -moz-border-radius: 24px;
-    -webkit-border-radius: 24px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
 
     /* make it big and easy to see (size, style to preferences) */
-    width: 10px;
-    line-height: 10px;
-    height: 10px;
-    padding: 10px;
+    width: 0px;
+    line-height: 0px;
+    height: 20px;
+    padding: 5px;
     background-color: #000;
-    font-size: 5px;
-    text-align: right;
+    font-size: 40px;
+    text-align: -webkit-center;
     color: #fff;
 }
