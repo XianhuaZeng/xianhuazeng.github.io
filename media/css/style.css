@@ -85,8 +85,8 @@ embed,object,iframe{display:block;margin:4px auto;}
     -webkit-border-radius: 0px;
 
     /* make it big and easy to see (size, style to preferences) */
-    width: 0px;
-    line-height: 0px;
+    width: px;
+    line-height: px;
     height: 20px;
     padding: 5px;
     background-color: #000;
