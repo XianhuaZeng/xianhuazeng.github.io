@@ -77,8 +77,8 @@ embed,object,iframe{display:block;margin:4px auto;}
     margin-top: -80px; /* = height + preferred bottom margin */
 
     /* link is centered */
-    left: 50%;
-    margin-left: -160px; /* = half of width */
+    left: 0%;
+    margin-left: 0px; /* = half of width */
 
     /* round the corners (to your preference) */
     -moz-border-radius: 24px;
