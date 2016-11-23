@@ -122,3 +122,6 @@ footer a:hover {
     -webkit-box-shadow: rgba(0,0,0,1.0) 0px 0px 2px,rgba(255,255,255,0.15) 0px 1px 1px inset;
     text-decoration: none;
 }
+.footnotes{font-size:12px;}
+.footnotes p{padding:.1em 0;}
+.footnotes li{padding:.1em 0;}
