@@ -98,20 +98,11 @@ embed,object,iframe{display:block;margin:4px auto;}
 footer{
 display:block;
 border-top: 1px dashed #CCC;
-}
-
-footer small {
+font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
 font-size: 13px;
 color: #999;
 }
 
-footer a {
-margin: 1px;
-border: 1px solid rgba(1,1,1,0);
-color: #2e9afe;
-text-decoration: none;
-}
-code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
 .footnotes{font-size:12px;}
 .footnotes p{padding:.1em 0;}
 .footnotes li{padding:.1em 0;}
