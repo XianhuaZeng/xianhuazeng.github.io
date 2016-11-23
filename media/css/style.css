@@ -53,6 +53,8 @@ pre,code{font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace
 code{background-color:#eff0f1;}
 embed,object,iframe{display:block;margin:4px auto;}
 .gist{font-size: 12px;line-height:1.6;}
+footer{display:block;border-top: 1px dashed #CCC;}
+footer small {font-size: 13px;color: #999;}
 @media print {
   *{font-weight:normal;}
   h1,h2,h3{font-weight:400;}
