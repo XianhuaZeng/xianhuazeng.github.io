@@ -20,7 +20,7 @@ body{font-size:14px;font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",
 a:link{color:#dd0000;text-decoration:none;}
 a:hover{color:#333333;text-decoration:underline;}
 a:visited {color:#93584D;}
-hr{margin:.7em 0;border-top:1px solid #cccccc;}
+hr{margin:1em 0;border-top:1px solid #cccccc;}
 p{padding:.5em 0;}
 li{padding:.2em 0;}
 ol,ul{list-style-position:inside;}
