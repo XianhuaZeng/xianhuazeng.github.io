@@ -20,7 +20,7 @@ body{font-size:14px;font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",
 a:link{color:#dd0000;text-decoration:none;}
 a:hover{color:#333333;text-decoration:underline;}
 a:visited {color:#93584D;}
-hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
+hr{margin:.7em 0;border-top:1px solid #cccccc;}
 p{padding:.5em 0;}
 li{padding:.2em 0;}
 ol,ul{list-style-position:inside;}
@@ -58,6 +58,7 @@ embed,object,iframe{display:block;margin:4px auto;}
   h1,h2,h3{font-weight:400;}
   a{color:black;border-bottom:lightgray dotted 1px;}
 }
+.post-recent{margin: -1em auto; padding: em 0;}
 #message a {
     /* display: block before hiding */
     display: block;
