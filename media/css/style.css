@@ -58,7 +58,7 @@ embed,object,iframe{display:block;margin:4px auto;}
   h1,h2,h3{font-weight:400;}
   a{color:black;border-bottom:lightgray dotted 1px;}
 }
-.post-recent{margin: -1em auto; padding: em 0;}
+.post-recent{margin: 0em auto; padding: 0em 0;border-top: 1px solid #cccccc;}
 #message a {
     /* display: block before hiding */
     display: block;
