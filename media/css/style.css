@@ -88,7 +88,6 @@ embed,object,iframe{display:block;margin:4px auto;}
     /* make it big and easy to see (size, style to preferences) */
     width: 30px;
     height: 30px;
-    display: block;
     font-size: 18px;
     background: transparent;
     text-align: center;
