@@ -86,14 +86,20 @@ embed,object,iframe{display:block;margin:4px auto;}
     -webkit-border-radius: 0px;
 
     /* make it big and easy to see (size, style to preferences) */
-    width: px;
-    line-height: px;
-    height: 20px;
-    padding: 5px;
-    background-color: #000;
-    font-size: 40px;
-    text-align: -webkit-center;
+    width: 30px;
+    height: 30px;
+    display: block;
+    font-size: 18px;
+    background: transparent;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+    text-decoration: none;
+    background: #232323;
     color: #fff;
+}
+#message a:hover {
+    background: #000;
 }
 footer{margin: .7em auto;font-size: 13px; color: #999;}
 footer .copyright{border-top: 1px solid #cccccc;text-align:center;}
